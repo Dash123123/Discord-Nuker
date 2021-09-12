@@ -1,7 +1,7 @@
-
-Many options while being compact!
 [image](https://user-images.githubusercontent.com/88788709/132997268-6afe7883-aa03-486b-9833-0beb1d22ad0d.png)
 [image](https://user-images.githubusercontent.com/88788709/132997285-4a2db244-cc4e-4e00-8740-d71d9b17fd60.png)
+Many options while being compact!
+
 
 Auto update
 Easy and fast
